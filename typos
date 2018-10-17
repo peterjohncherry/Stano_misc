@@ -1,0 +1,2 @@
+Has --nt= instead of --np=  for setting processor numbers. Appears twice in each tutorial. Note that if you get it wrong ReSpect doesn't complain about the unrecognised command; it just runs on one processor.
+
